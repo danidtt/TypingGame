@@ -1,5 +1,3 @@
-# Ideia: Jogo competitivo de quem digita mais rápido
-
 # No terminal, instale requests com o comando: pip install requests
 
 import requests
